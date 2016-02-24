@@ -1,5 +1,5 @@
 val buildSettings = Seq(
-	organization := "net.janvsmachine",
+	organization := "com.codurance",
 	name := "clean-sbt-project",
 	version := "0.0.1",
 	scalaVersion  := "2.11.7",
