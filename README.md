@@ -16,7 +16,7 @@ or
  
 if you want to run the tests multiple times without re-starting sbt.
 
-For a unit test class example, check [MyClassShould](https://github.com/codurance/clean_sbt_project/blob/master/src/test/scala/com/codurance/EmptyTestShould.scala)
+For a unit test class example, check [MyClassShould](https://github.com/codurance/clean_sbt_project/blob/master/src/test/scala/com/codurance/MyClassShould.scala)
 
 All unit test classes can extend [UnitSpec](https://github.com/codurance/clean_sbt_project/blob/master/src/test/scala/com/codurance/UnitSpec.scala) for convenience.  
 
